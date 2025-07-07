@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ayushrajchauhan-portfolio/static/css/main.e60b082b.css",
-    "main.js": "/ayushrajchauhan-portfolio/static/js/main.11c30cf1.js",
+    "main.js": "/ayushrajchauhan-portfolio/static/js/main.6419c6ea.js",
     "static/js/453.e565fd7a.chunk.js": "/ayushrajchauhan-portfolio/static/js/453.e565fd7a.chunk.js",
     "static/media/image-FtHeHZNUYkG4fuPHrmwq8Flc8J0LS8.png": "/ayushrajchauhan-portfolio/static/media/image-FtHeHZNUYkG4fuPHrmwq8Flc8J0LS8.f573628a59e2e5b8171d.png",
     "static/media/Work1.jpeg": "/ayushrajchauhan-portfolio/static/media/Work1.14a108b512f1c22c4d09.jpeg",
     "static/media/Work4.png": "/ayushrajchauhan-portfolio/static/media/Work4.e0b9e189cedd655dba73.png",
     "static/media/DP.jpeg": "/ayushrajchauhan-portfolio/static/media/DP.6397fcb19dc4793269ca.jpeg",
     "static/media/Work5.png": "/ayushrajchauhan-portfolio/static/media/Work5.4df10f36746b31051b03.png",
+    "static/media/ayushrajchauhan-frontend.pdf": "/ayushrajchauhan-portfolio/static/media/ayushrajchauhan-frontend.02690a84cca40e3059f5.pdf",
     "static/media/Work2.png": "/ayushrajchauhan-portfolio/static/media/Work2.3a3135f7918801e00f42.png",
     "static/media/Work3.png": "/ayushrajchauhan-portfolio/static/media/Work3.d4cfebb540cf3f22e67f.png",
-    "static/media/ayush-fewd-cv.pdf": "/ayushrajchauhan-portfolio/static/media/ayush-fewd-cv.7d069a723762ba456e4d.pdf",
     "index.html": "/ayushrajchauhan-portfolio/index.html",
     "main.e60b082b.css.map": "/ayushrajchauhan-portfolio/static/css/main.e60b082b.css.map",
-    "main.11c30cf1.js.map": "/ayushrajchauhan-portfolio/static/js/main.11c30cf1.js.map",
+    "main.6419c6ea.js.map": "/ayushrajchauhan-portfolio/static/js/main.6419c6ea.js.map",
     "453.e565fd7a.chunk.js.map": "/ayushrajchauhan-portfolio/static/js/453.e565fd7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e60b082b.css",
-    "static/js/main.11c30cf1.js"
+    "static/js/main.6419c6ea.js"
   ]
 }
