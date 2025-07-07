@@ -1,7 +1,9 @@
 import React from 'react';
 import './about.css';
 import AboutImg from '../../assets/image-FtHeHZNUYkG4fuPHrmwq8Flc8J0LS8.png';
-import CV from '../../assets/ayush-fewd-cv.pdf';
+// import CV from '../../assets/ayush-fewd-cv.pdf';
+// import CV from '../../assets/ayushrajchauahn-frontend.pdf';
+import CV from '../../assets/ayushrajchauhan-frontend.pdf';
 import Info from './Info';
 
 const About = () => {
