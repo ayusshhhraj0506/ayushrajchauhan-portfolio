@@ -126,16 +126,10 @@ const Qualifications = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">
-                  Genetic Web Technologies
-                </h3>
+                <h3 className="qualification__title">Fresher</h3>
                 <span className="qualification__subtitle">
                   Frontend Web Developer
                 </span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> November 2023 -
-                  November 2024
-                </div>
               </div>
             </div>
           </div>
