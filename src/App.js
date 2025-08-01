@@ -13,6 +13,7 @@ import ScrollUp from './components/scrollup/ScrollUp';
 function App() {
   return (
     <>
+      {/* TEST: This comment should appear if deployment is working */}
       <Header />
       <main className="main">
         <Home />
